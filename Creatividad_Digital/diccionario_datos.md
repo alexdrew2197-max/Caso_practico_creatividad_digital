@@ -1,7 +1,7 @@
 # Diccionario de Datos — Campanas de Creatividad Digital
 
 Dataset: `datos/campanas_creatividad_digital.csv`
-Filas: 200 campanas | Periodo: 2025
+Filas: 180 campanas | Periodo: 2025
 
 ---
 
