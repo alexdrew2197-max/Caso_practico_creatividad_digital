@@ -22,9 +22,9 @@
 - **KPI 3: Outliers identificados** La campaña con ID 158 tiene un CTR mucho menor que las campañas con ID 93 y 108, sin embargo, genero 84,100 dolares en ingresos, somparadas a las otras que solo generaron ingresos de 506 y 83 dolares respectivamente. Asimismo, la campaña 108 tuvo una clasificación creativa de 89, comparado a la campaña 158, sin embargo, fue la campaña que genero menos ingresos de todas.
 
 ## 4. Filtros y segmentos relevantes
-- **Segmento A:** Se obtuvo que hubo 90 campañas con un ROI negativo, cuyo costo en dolares esta por encima de la mediana. 
-- **Segmento B:** Se encontro que en las plataformas de Instagram y Tiktok el gasto para la campaña es mayor que la media, siendo en plataformas como X donde es más raro que se vea esto.
-- **Segmento C:** Del top 10 campañas por ROI unicamente en TikTok e Instragram, Instagram es la plataforma que domina el top 10, teniendo todas ellas el objetivo de vender algo. Asimismo el formato preferido para estas campañas fue la creaacion de Story y Reels.
+- **Segmento A:** Se obtuvo que hubo 36 campañas con un ROI negativo, cuyo costo en dolares esta por encima de la mediana. 
+- **Segmento B:** Se encontro que en las plataformas de Instagram y Youtubr el gasto para la campaña es mayor que la media, siendo en plataformas como X, Facebook o Tiktok donde es más raro que se vea esto.
+- **Segmento C:** Del top 10 campañas por ROI unicamente TikTok es la plataforma que domina el top 10, teniendo todas ellas el objetivo de vender algo. Asimismo el formato preferido para estas campañas fue la creaacion de Story y Reels.
 
 ## 5. Graficas e interpretacion
 1. **Grafica 1:**La grafica nos muestra que, un gran numero de campañas han resultado en un ROI demasiado bajo, solo siendo algunas de ellas las que han podido ser exitosas y regresar más del doble de lo invertido en ellas.
